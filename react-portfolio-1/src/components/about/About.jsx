@@ -34,7 +34,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            I am passionate about creating fully responsive websites/ web apps for software
+            I am passionate about creating fully responsive websites/web apps for software
             development purposes based on the clean code standards. Always driven for keeping up to
             date with the new upcoming technology solutions.
           </p>
