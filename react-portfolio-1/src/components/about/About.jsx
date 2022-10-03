@@ -26,6 +26,13 @@ const About = () => {
             <small>JavaScript + React Coderslab, Warsaw, Poland 01.2022 - 03.2022</small>
             <br></br>
             <small>Group Workshop - SCRUM Coderslab, Warsaw, Poland 02.2022</small>
+            <br></br>
+            <small>
+              Junion Frontend Specialist in Pracownia Braci Ebert / Luminity, Warsaw, Poland 02.2022
+              - 09.2022
+            </small>
+            <br></br>
+            <small>JS Procect for Smart Data Ventures, Warsaw, Poland 04.2022</small>
 
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
