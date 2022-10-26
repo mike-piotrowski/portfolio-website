@@ -31,9 +31,17 @@ const About = () => {
             <small>
               Junior Frontend Specialist in Pracownia Braci Ebert / Luminity, Warsaw, Poland 02.2022
               - 09.2022
+              <br></br>I was a member of a front end development team and I was partly in charge for
+              working on creating particular sections for the main website of the company (mostly
+              html + css).
             </small>
             <br></br>
-            <small>JS Project for Smart Data Ventures, Warsaw, Poland 04.2022</small>
+            <br></br>
+            <small>
+              JS Project for Smart Data Ventures, Warsaw, Poland 04.2022<br></br> I took part in a
+              project where I was responsible for creating mobile app cart for adding a new vehicle
+              in a commercial mobile parking app.
+            </small>
 
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
